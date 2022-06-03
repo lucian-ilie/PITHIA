@@ -35,5 +35,3 @@ pip3 install -r requirement.txt
 bash run_PITIHA.sh [Fasta file]
 ```
 
-# PITIHA model architecture 
-![](img/Model_architecture.JPG)
