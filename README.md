@@ -1,14 +1,13 @@
 # The source code of PITHIA web server
 The PITHIA source code is designed for high-throughput prediction. It does not have the limitation of 10 sequences per run.
 # Citation
-SeyedMohsen Hosseini and Lucian Ilie, PITHIA: Protein interaction site prediction using
-multiple sequence alignments and attention. 
+S. Hosseini, L. Ilie, PITHIA: protein interaction site prediction using multiple sequence alignments and attention, International Journal of Molecular Sciences 23(21) (2022) 12814.
 
 Contact: 
 
 SeyedMohsen Hosseini (shosse59@uwo.ca)
-
 Lucian Ilie (ilie@uwo.ca)
+
 # System requirement
 PITHIA is developed under Linux environment with python 3.7.
 Recommended RAM: > 24GB. The RAM requirement mainly depends on the length of the input sequence. 
