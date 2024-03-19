@@ -1,5 +1,9 @@
-# The source code of PITHIA web server
+# The source code of PITHIA
 The PITHIA source code is designed for high-throughput prediction. It does not have the limitation of 10 sequences per run.
+
+# Web server
+ PITHIA is freely available as a web server at http://pithia.csd.uwo.ca/.
+
 # Citation
 S. Hosseini, L. Ilie, PITHIA: protein interaction site prediction using multiple sequence alignments and attention, International Journal of Molecular Sciences 23(21) (2022) 12814.
 
